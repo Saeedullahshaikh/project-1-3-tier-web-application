@@ -460,7 +460,7 @@ Tighten security later:
 - Lock SSH (22) to your IP only, not 0.0.0.0/0.
 - Consider private subnets + NAT for App/DB in next iteration.
 
-To destroy all (see command after this output).
+To destroy all see my next file.
 ==========================================
 OUT
 
